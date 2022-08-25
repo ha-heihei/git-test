@@ -15,11 +15,14 @@ public class GitTest {
         System.out.println("dev_1_1_new");
         System.out.println("dev_2");
         System.out.println("dev_2_1");
-        System.out.println("dev_2_2");
+//        System.out.println("dev_2_2");
         System.out.println("dev_3_1");
 
         System.out.println("dev_4_1");
         System.out.println("dev_4_2");
+        System.out.println("dev_2_2_new");
+        System.out.println("dev_2_3");
+        System.out.println("dev_2_3_new");
     }
 
 }
